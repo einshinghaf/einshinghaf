@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning React and vue
 - 💞️ I love vbscript projects.
 - 👀 I wrote more than 1M lines of codes in classic ASP
-- 📫 telegram: @einshinghaf
-- 
+ 
 
 <!---
 einshinghaf/einshinghaf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
